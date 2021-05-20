@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Software Developement Student at DigitalCrafts
+## Junior Software Developer
 
-- 📚  I’m currently learning everything about Frontend and Backend technologies, such as React/Redux and Javascript 😅
+- 📚  I’m currently learning everything about Frontend and Backend technologies, such as React/Redux and Javascript! I intend to forever be learning new technologies and improving my developement skills.
 - 🎮  I have a special interest in game developement, but that's just for fun- for now 😉 
 - 🐈  Fun fact: I went into the 2020 with zero cats and now I have three, I like to call myself a reformed dog-person.
 
