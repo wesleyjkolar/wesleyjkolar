@@ -5,7 +5,7 @@
 ## Junior Software Developer
 
 - 📚  I’m currently learning everything about Frontend and Backend technologies, such as React/Redux and Javascript! I intend to forever be learning new technologies and improving my developement skills.
-- 🎮  I have a special interest in game developement, but that's just for fun- for now 😉 
+- 🎮  I have a special interest in game developement.
 
 
 ### Languages and Tools 🛠 
